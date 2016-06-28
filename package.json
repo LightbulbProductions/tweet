@@ -1,0 +1,28 @@
+{
+  "name": "tweetbot",
+  "version": "1.0.0",
+  "description": "tweet bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightbulbProductions/tweet.git"
+  },
+  "keywords": [
+    "tweet"
+  ],
+  "author": "lightbulbproductions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LightbulbProductions/tweet/issues"
+  },
+  "homepage": "https://github.com/LightbulbProductions/tweet#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "node-rest-client": "^1.8.0",
+    "twit": "^2.2.4",
+    "wordfilter": "^0.2.6"
+  }
+}
